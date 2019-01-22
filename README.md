@@ -6,3 +6,5 @@ Welcome to our information page for DeltaCube SMP! To recap, we are a vanilla su
 * **Platform:** PaperSpigot
 * **Plugins:** HorseStats, LWC, CoreProtect, Essentials, PlayerHeads, ColoredSigns
 * **Datapacks:** 12 Trapdoors, 4 Bark Blocks, AFK Display, Anti Ghast Grief, Back to Blocks, Double Shulker Shells, Double Slab Crafting, Dragon Drops Elytra, Giant Phantoms, More Stairs Crafting, Multiplayer Sleep, Shulkermites, Track Raw Statistics, Tridents o' Plenty, Uncraftable Nether Wart Block, Universal Dyeing
+
+We take pride in the work our community puts into each and every world we play on. Therefore, do not expect map wipes to happen frequently. Map wipes occur only when a new and game-altering release of Minecraft is available, or when a consensus is reached amongst the community that the map has reached a point where "everything has been done."
