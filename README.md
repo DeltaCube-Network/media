@@ -1,6 +1,6 @@
 # DeltaCube SMP
 
-Welcome to our information page for DeltaCube SMP! To recap, we are a vanilla survival multiplayer server running a lightweight version of Spigot (PaperSpigot). Although we do have some plugins and datapacks, we'd still like to consider ourselves to be leaning heavily on the vanilla side of Minecraft.
+Welcome to our information page for DeltaCube SMP! To recap, we are a vanilla survival multiplayer server running a lightweight version of Spigot (PaperSpigot). Although we do have some plugins and datapacks, we'd still like to consider ourselves to be leaning heavily on the vanilla side of Minecraft. Just a heads up - be prepared to find fast ways to travel through the server, as /tp is not a thing on our server.
 
 * **Server Version:** 1.13.2
 * **Platform:** PaperSpigot
